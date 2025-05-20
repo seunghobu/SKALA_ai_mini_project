@@ -1,4 +1,5 @@
-# TITLE
+# 배터리 산업 동향 보고서 작성 에이전트 구축
+
 본 프로젝트는 배터리 시장 트렌트를 분석하는 멀티 에이전트를 설계하고 구현하는 실습 프로젝트입니다.
 
 ## Overview
@@ -39,4 +40,7 @@
 - stock_price_analysis : 주가 데이터를 수집하고 시계열 예측으로 주가 흐름 분석
 - data_visualization : 주가 및 정량 데이터 기반 시각화
 - report_compilation : 개별 분석 결과들을 종합해 최종 전기차 산업 보고서 작성
-- end : 리포트 생성이 완료되고 최종 결과 반환 
+- end : 리포트 생성이 완료되고 최종 결과 반환
+
+## Architecture
+![모델구조](C:\Users\Administrator\Desktop\SKALA_AI_mini_project\Agent_Graph.png)
