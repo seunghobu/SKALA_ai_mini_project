@@ -1,0 +1,54 @@
+﻿# LangChain core and extensions
+langchain>=0.1.0
+langchain-core>=0.1.40
+langchain-community>=0.0.25
+langchain-openai>=0.1.8
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.1.0
+
+# OpenAI LLM API
+openai>=1.0.0
+tiktoken>=0.5.1
+
+# Tavily Web Search
+tavily-python>=0.3.3
+
+# LangGraph for workflow management
+langgraph>=0.1.0
+reportlab>=4.0.0
+
+# 환경 변수 로딩
+python-dotenv>=1.0.1
+
+# FastAPI for backend
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+
+# PDF 생성 및 처리
+reportlab>=4.0.0
+PyPDF2>=3.0.1
+markdown2>=2.4.8  # Markdown 변환 라이브러리
+pdfkit>=1.0.0  # HTML을 PDF로 변환
+
+# 네트워크 요청
+requests>=2.31.0
+loguru>=0.7.0
+
+# 데이터 처리 및 분석
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+pyarrow>=14.0.0
+
+# 딥러닝 (LSTM, Transformer)
+torch>=2.1.0
+transformers>=4.39.0
+
+# 시각화 (차트 생성)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# 금융 데이터 수집
+yfinance>=0.2.36
+
+python-dotenv>=1.0.1
