@@ -1,4 +1,4 @@
-﻿# LangChain core and extensions
+# LangChain core and extensions
 langchain>=0.1.0
 langchain-core>=0.1.40
 langchain-community>=0.0.25
@@ -15,7 +15,6 @@ tavily-python>=0.3.3
 
 # LangGraph for workflow management
 langgraph>=0.1.0
-reportlab>=4.0.0
 
 # 환경 변수 로딩
 python-dotenv>=1.0.1
@@ -28,7 +27,8 @@ uvicorn[standard]>=0.27.0
 reportlab>=4.0.0
 PyPDF2>=3.0.1
 markdown2>=2.4.8  # Markdown 변환 라이브러리
-pdfkit>=1.0.0  # HTML을 PDF로 변환
+pdfkit>=1.0.0      # HTML을 PDF로 변환
+weasyprint>=61.2   # HTML/CSS 기반 PDF 렌더링
 
 # 네트워크 요청
 requests>=2.31.0
@@ -50,5 +50,3 @@ seaborn>=0.13.0
 
 # 금융 데이터 수집
 yfinance>=0.2.36
-
-python-dotenv>=1.0.1
