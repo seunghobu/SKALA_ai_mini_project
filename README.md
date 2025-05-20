@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Objective : 구갠 배터리 업계의 사업 현황 분석 및 주식 리포트 생성
+- Objective : 국내 배터리 업계의 사업 현황 분석 및 주식 리포트 생성
 - Methods : Multi-Agent, RAG, LLM 기반 보고서 생성 
 - Tools : LangGraph, LangChain, OpenAI GPT API
 ## Features
