@@ -121,7 +121,7 @@ SKALA_AI_MINI_PROJECT/
 ```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt ( weasyprint는 별도 설치 필요 : pip install weasyprint)
+pip install -r requirements.txt
 ```
 
 
