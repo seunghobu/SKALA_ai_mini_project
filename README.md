@@ -134,6 +134,6 @@ pip install -r requirements.txt
 3. 실행
 
 ```bash
-supervisor.py
+src/agents/supervisor.py
 ```
 
